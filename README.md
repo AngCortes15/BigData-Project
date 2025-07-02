@@ -103,7 +103,7 @@ StructType([
 **Value**: Generates actionable personalized recommendations improving user engagement
 
 ### 4. Data Visualization
-![Dashboard](Dashboard BigData Project 1.jpg)
+![Dashboard](Dashboard-BigData-Project-1.jpg)
 - **Power BI Dashboard**: Interactive visualizations of ML predictions and insights
 
 
